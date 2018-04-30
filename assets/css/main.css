@@ -4062,3 +4062,14 @@
 			margin-top: 0;
 			padding-top: 0;
 		}
+
+
+
+
+
+/* -- ADDED CSS -- */
+
+.style_none {
+	border: none;
+	text-decoration: none;
+}
