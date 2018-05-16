@@ -3959,7 +3959,9 @@
 		#footer .copyright a {
 			color: inherit;
 		}
-
+	.footer {
+		margin-bottom: 1.5em;
+	}
 /* Menu */
 
 	#menu ul {
